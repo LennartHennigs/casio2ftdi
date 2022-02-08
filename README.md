@@ -28,8 +28,8 @@ Bill of Materials
 - 2 x SMD805 1K Ohm Resistor (R3)
 - 1 x 2-row right-angle 1.27mm pitch header (2x15 pins)
 
-- the PCB (e.g. ordered via [JLCPCB](https://jlcpcb.com/))
-- 1x FTDI FT232RL USB to TTL cable (e.g. [this one](https://www.ebay.de/itm/273461345989))
+- 1 x the PCB (e.g. ordered via [JLCPCB](https://jlcpcb.com/))
+- 1 x FTDI FT232RL USB to TTL cable (e.g. [this one](https://www.ebay.de/itm/273461345989))
 
 **Note**: The PCB needs to be **1.2mm thick**. Otherwise it will not fit into the connctor slot.
 
