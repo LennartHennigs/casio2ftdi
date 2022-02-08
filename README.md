@@ -21,13 +21,15 @@ As you can see, I used SMD components (805) on the PCB. They are large enough to
 
 Bill of Materials
 ----------------
-- 1 x SMD805 LED (green)
-- 1 x SMD805 LED (blue)
-- 2 x SMD805 1K Ohm Resistor
-- 1 x SMD805 50 Ohm Resistor
-- 1 x SMD805 0 Ohm Resistor
-- 1 x 2-row right-angle 1.27mm pitch header (2x15 pin)s
-- the PCB (e.g. via [JLCPCB](https://jlcpcb.com/))
+- 1 x SMD805 green LED (RX)
+- 1 x SMD805 blue LED (TX)
+- 1 x SMD805 50 Ohm Resistor (R1)
+- 1 x SMD805 0 Ohm Resistor (R2)
+- 2 x SMD805 1K Ohm Resistor (R3)
+- 1 x 2-row right-angle 1.27mm pitch header (2x15 pins)
+
+- the PCB (e.g. ordered via [JLCPCB](https://jlcpcb.com/))
+- 1x FTDI FT232RL USB to TTL cable (e.g. [this one](https://www.ebay.de/itm/273461345989))
 
 **Note**: The PCB needs to be **1.2mm thick**. Otherwise it will not fit into the connctor slot.
 
