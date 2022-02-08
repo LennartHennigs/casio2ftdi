@@ -31,8 +31,10 @@ Bill of Materials
 
 **Note**: The PCB needs to be **1.2mm thick**. Otherwise it will not fit into the connctor slot.
 
-
 Details
 -------
 
 *TBD*
+
+![fritzing pcb view](fritzing.png)
+
