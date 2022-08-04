@@ -1,7 +1,7 @@
 Casio2FDTI Connector
 ====================
 
-This is a small PCB that allows you to connect a CASIO FX-850P/FX-850P via aN FTDI USB cable to your computer (Win or Mac).
+This is a small PCB that allows you to connect a CASIO FX-850P/FX-850P via an FTDI USB cable to your computer (Win or Mac).
 
 * Author: Lennart Hennigs (https://www.lennarthennigs.de)
 * Copyright (C) 2021-2022 Lennart Hennigs.
